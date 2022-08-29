@@ -1,0 +1,34 @@
+h1  {	color: black;
+		border: 4px ridge black;
+		text-align: center;
+	}
+
+nav	{	color: black;
+		text-align: center;
+		font-weight: bold;
+		font-size: 26px;
+		text-decoration: none;
+	}
+
+caption	
+	{	font-size:18pt;
+		color: black;
+		font-weight: bold;
+	}
+
+table
+	{	border:3px solid black;
+		table-layout: fixed;
+		width: 50%;
+	}
+	
+th 	{	font-size:14pt;
+		font-weight: bold;
+	}
+td 	{	border:1px solid black;
+	}
+	
+body{	background-color: #FAD26B; 
+	}
+
+
